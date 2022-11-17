@@ -1,0 +1,18 @@
+/* Write your code here. */
+.thumbnail-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.container {
+  padding: 25px;
+}
+.heading {
+  font-family: roboto;
+  color: #1e293b;
+}
+.desc {
+  font-family: roboto;
+  color: #64748b;
+}
